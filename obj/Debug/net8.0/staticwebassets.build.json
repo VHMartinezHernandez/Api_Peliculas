@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "7OasYRtfcOs/tcSZDLCgqoSBR9HASZChgWkpOW6I0ME=",
+  "Source": "ApiPeliculas",
+  "BasePath": "_content/ApiPeliculas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ApiPeliculas\\wwwroot",
+      "Source": "ApiPeliculas",
+      "ContentRoot": "F:\\ProyectosC#Avanzados(Backend)\\ApiPeliculas\\ApiPeliculas\\wwwroot\\",
+      "BasePath": "_content/ApiPeliculas",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\ProyectosC#Avanzados(Backend)\\ApiPeliculas\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\07e9d488b-718c-42a1-9062-491e144890a5.jpeg",
+      "SourceId": "ApiPeliculas",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\ProyectosC#Avanzados(Backend)\\ApiPeliculas\\ApiPeliculas\\wwwroot\\",
+      "BasePath": "_content/ApiPeliculas",
+      "RelativePath": "ImagenesPeliculas/07e9d488b-718c-42a1-9062-491e144890a5.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ImagenesPeliculas\\07e9d488b-718c-42a1-9062-491e144890a5.jpeg"
+    },
+    {
+      "Identity": "F:\\ProyectosC#Avanzados(Backend)\\ApiPeliculas\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\11a0868d4-a9fb-4dd8-a643-b57e068649b3.jpeg",
+      "SourceId": "ApiPeliculas",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\ProyectosC#Avanzados(Backend)\\ApiPeliculas\\ApiPeliculas\\wwwroot\\",
+      "BasePath": "_content/ApiPeliculas",
+      "RelativePath": "ImagenesPeliculas/11a0868d4-a9fb-4dd8-a643-b57e068649b3.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ImagenesPeliculas\\11a0868d4-a9fb-4dd8-a643-b57e068649b3.jpeg"
+    },
+    {
+      "Identity": "F:\\ProyectosC#Avanzados(Backend)\\ApiPeliculas\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\156ec360f-9619-4300-aeb2-b5a89e28d4cb.jpeg",
+      "SourceId": "ApiPeliculas",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\ProyectosC#Avanzados(Backend)\\ApiPeliculas\\ApiPeliculas\\wwwroot\\",
+      "BasePath": "_content/ApiPeliculas",
+      "RelativePath": "ImagenesPeliculas/156ec360f-9619-4300-aeb2-b5a89e28d4cb.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ImagenesPeliculas\\156ec360f-9619-4300-aeb2-b5a89e28d4cb.jpeg"
+    }
+  ]
+}

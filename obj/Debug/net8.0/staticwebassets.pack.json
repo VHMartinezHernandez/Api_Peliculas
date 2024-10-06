@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\ProyectosC#Avanzados(Backend)\\ApiPeliculas\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\07e9d488b-718c-42a1-9062-491e144890a5.jpeg",
+      "PackagePath": "staticwebassets\\ImagenesPeliculas\\07e9d488b-718c-42a1-9062-491e144890a5.jpeg"
+    },
+    {
+      "Id": "F:\\ProyectosC#Avanzados(Backend)\\ApiPeliculas\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\11a0868d4-a9fb-4dd8-a643-b57e068649b3.jpeg",
+      "PackagePath": "staticwebassets\\ImagenesPeliculas\\11a0868d4-a9fb-4dd8-a643-b57e068649b3.jpeg"
+    },
+    {
+      "Id": "F:\\ProyectosC#Avanzados(Backend)\\ApiPeliculas\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\156ec360f-9619-4300-aeb2-b5a89e28d4cb.jpeg",
+      "PackagePath": "staticwebassets\\ImagenesPeliculas\\156ec360f-9619-4300-aeb2-b5a89e28d4cb.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiPeliculas.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ApiPeliculas.props",
+      "PackagePath": "build\\ApiPeliculas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiPeliculas.props",
+      "PackagePath": "buildMultiTargeting\\ApiPeliculas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ApiPeliculas.props",
+      "PackagePath": "buildTransitive\\ApiPeliculas.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
